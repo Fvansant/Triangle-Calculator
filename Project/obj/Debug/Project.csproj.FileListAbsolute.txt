@@ -1,0 +1,12 @@
+H:\Project\Project\bin\Debug\Project.exe.config
+H:\Project\Project\bin\Debug\Project.exe
+H:\Project\Project\bin\Debug\Project.pdb
+H:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+H:\Project\Project\obj\Debug\Project.exe
+H:\Project\Project\obj\Debug\Project.pdb
+E:\Project\Project\bin\Debug\Project.exe.config
+E:\Project\Project\bin\Debug\Project.exe
+E:\Project\Project\bin\Debug\Project.pdb
+E:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Project\Project\obj\Debug\Project.exe
+E:\Project\Project\obj\Debug\Project.pdb
